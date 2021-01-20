@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/unitypublisherpage/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/unitypublisherpage/static/js/main.dec6be8d.chunk.js",
+    "main.js.map": "/unitypublisherpage/static/js/main.dec6be8d.chunk.js.map",
+    "runtime-main.js": "/unitypublisherpage/static/js/runtime-main.434503fd.js",
+    "runtime-main.js.map": "/unitypublisherpage/static/js/runtime-main.434503fd.js.map",
+    "static/js/2.73e35cd6.chunk.js": "/unitypublisherpage/static/js/2.73e35cd6.chunk.js",
+    "static/js/2.73e35cd6.chunk.js.map": "/unitypublisherpage/static/js/2.73e35cd6.chunk.js.map",
+    "static/js/3.5026a059.chunk.js": "/unitypublisherpage/static/js/3.5026a059.chunk.js",
+    "static/js/3.5026a059.chunk.js.map": "/unitypublisherpage/static/js/3.5026a059.chunk.js.map",
+    "index.html": "/unitypublisherpage/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/unitypublisherpage/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.73e35cd6.chunk.js.LICENSE.txt": "/unitypublisherpage/static/js/2.73e35cd6.chunk.js.LICENSE.txt",
+    "static/media/asperspec.md": "/unitypublisherpage/static/media/asperspec.2a92cd91.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.434503fd.js",
+    "static/js/2.73e35cd6.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.dec6be8d.chunk.js"
+  ]
+}
