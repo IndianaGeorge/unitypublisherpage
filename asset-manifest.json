@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/unitypublisherpage/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/unitypublisherpage/static/js/main.861784a2.chunk.js",
-    "main.js.map": "/unitypublisherpage/static/js/main.861784a2.chunk.js.map",
+    "main.js": "/unitypublisherpage/static/js/main.aee70b51.chunk.js",
+    "main.js.map": "/unitypublisherpage/static/js/main.aee70b51.chunk.js.map",
     "runtime-main.js": "/unitypublisherpage/static/js/runtime-main.434503fd.js",
     "runtime-main.js.map": "/unitypublisherpage/static/js/runtime-main.434503fd.js.map",
     "static/js/2.73e35cd6.chunk.js": "/unitypublisherpage/static/js/2.73e35cd6.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.434503fd.js",
     "static/js/2.73e35cd6.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.861784a2.chunk.js"
+    "static/js/main.aee70b51.chunk.js"
   ]
 }
