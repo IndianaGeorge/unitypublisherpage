@@ -1,7 +1,6 @@
 const ArticleList = (props)=>{
     return (
         <div>
-            test
         </div>
     );
 }
